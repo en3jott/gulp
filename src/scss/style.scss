@@ -1,0 +1,13 @@
+// import base style
+@import 'base/reset';
+@import 'base/vars';
+@import 'base/fonts';
+@import 'base/global';
+@import 'base/animation';
+@import 'base/mixins';
+
+//import blocks style
+@import 'blocks/header';
+@import 'blocks/footer';
+
+//import sections style

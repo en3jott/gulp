@@ -1,0 +1,9 @@
+//svg sprite HTML
+<svg class="icon">
+	<use xlink:href="img/svg/sprite.svg#home"></use>
+</svg>
+
+//svg sprite CSS
+.shopping-cart {
+  background: url(sprite.svg#shopping-cart) no-repeat; 
+}
